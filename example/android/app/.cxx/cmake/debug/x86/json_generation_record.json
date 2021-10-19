@@ -1,0 +1,518 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86/android_gradle_build.json due to:",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86/build_command.txt, will remove stale json folder",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86\u0027",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/piero512/AndroidStudioProjects/kissfft/src\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/prefab/x86/prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/piero512/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003d/Users/piero512/Library/Android/sdk/ndk/21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003d/Users/piero512/Library/Android/sdk/ndk/21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/piero512/AndroidStudioProjects/kissfft/example/build/app/intermediates/cmake/debug/obj/x86\n-DCMAKE_MAKE_PROGRAM\u003d/Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-B/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/piero512/AndroidStudioProjects/kissfft/src\",\n  \"buildDirectory\": \"/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/prefab/x86/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/piero512/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/Users/piero512/Library/Android/sdk/ndk/21.1.6352462\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/piero512/Library/Android/sdk/ndk/21.1.6352462\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/piero512/AndroidStudioProjects/kissfft/example/build/app/intermediates/cmake/debug/obj/x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Building KissFFT with datatype: float\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Building KissFFT with datatype: float",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Building shared library\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Building shared library",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"PKGINCLUDEDIR is /kissfft\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "PKGINCLUDEDIR is /kissfft",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at CMakeLists.txt:293 (install):\\n  install TARGETS given no LIBRARY DESTINATION for shared library target\\n  \\\"kissfft\\\".\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt:293 (install):\n  install TARGETS given no LIBRARY DESTINATION for shared library target\n  \"kissfft\".\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at tools/CMakeLists.txt:9 (install):\\n  install TARGETS given no RUNTIME DESTINATION for executable target\\n  \\\"fastconv\\\".\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/piero512/AndroidStudioProjects/kissfft/src/tools/CMakeLists.txt:9 (install):\n  install TARGETS given no RUNTIME DESTINATION for executable target\n  \"fastconv\".\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found PkgConfig: /usr/local/bin/pkg-config (found version \\\"0.29.2\\\") \",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Found PkgConfig: /usr/local/bin/pkg-config (found version \"0.29.2\") ",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Checking for module \u0027libpng\u0027\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Checking for module \u0027libpng\u0027",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"  Found libpng, version 1.6.37\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  Found libpng, version 1.6.37",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at tools/CMakeLists.txt:21 (install):\\n  install TARGETS given no RUNTIME DESTINATION for executable target\\n  \\\"psdpng\\\".\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/piero512/AndroidStudioProjects/kissfft/src/tools/CMakeLists.txt:21 (install):\n  install TARGETS given no RUNTIME DESTINATION for executable target\n  \"psdpng\".\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Checking for module \u0027fftw3\u0027\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Checking for module \u0027fftw3\u0027",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"  No package \u0027fftw3\u0027 found\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  No package \u0027fftw3\u0027 found",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake:415 (message):\\n  A required package was not found\\nCall Stack (most recent call first):\\n  /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake:593 (_pkg_check_modules_internal)\\n  test/CMakeLists.txt:32 (pkg_check_modules)\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake:415 (message):\n  A required package was not found\nCall Stack (most recent call first):\n  /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake:593 (_pkg_check_modules_internal)\n  test/CMakeLists.txt:32 (pkg_check_modules)\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":933,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":966,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring incomplete, errors occurred!\nSee also \"/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log\".",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "Configuration failed.",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/bin).\r\nCheck for working C compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang\nCheck for working C compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works\nDetecting C compiler ABI info\nDetecting C compiler ABI info - done\nDetecting C compile features\nDetecting C compile features - done\nCheck for working CXX compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++\nCheck for working CXX compiler: /Users/piero512/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works\nDetecting CXX compiler ABI info\nDetecting CXX compiler ABI info - done\nDetecting CXX compile features\nDetecting CXX compile features - done\nBuilding KissFFT with datatype: float\nBuilding shared library\nPKGINCLUDEDIR is /kissfft\nCMake Error at CMakeLists.txt:293 (install):\n  install TARGETS given no LIBRARY DESTINATION for shared library target\n  \"kissfft\".\n\n\nCMake Error at tools/CMakeLists.txt:9 (install):\n  install TARGETS given no RUNTIME DESTINATION for executable target\n  \"fastconv\".\n\n\nFound PkgConfig: /usr/local/bin/pkg-config (found version \"0.29.2\") \nChecking for module \u0027libpng\u0027\n  Found libpng, version 1.6.37\nCMake Error at tools/CMakeLists.txt:21 (install):\n  install TARGETS given no RUNTIME DESTINATION for executable target\n  \"psdpng\".\n\n\nChecking for module \u0027fftw3\u0027\n  No package \u0027fftw3\u0027 found\nCMake Error at /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake:415 (message):\n  A required package was not found\nCall Stack (most recent call first):\n  /Users/piero512/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake:593 (_pkg_check_modules_internal)\n  test/CMakeLists.txt:32 (pkg_check_modules)\n\n\nConfiguring incomplete, errors occurred!\nSee also \"/Users/piero512/AndroidStudioProjects/kissfft/example/android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log\".\n",
+    "file": "/Users/piero512/AndroidStudioProjects/kissfft/src/CMakeLists.txt",
+    "tag": "debug|x86"
+  }
+]
